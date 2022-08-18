@@ -1,0 +1,4 @@
+Sistema de agendamento HC#3:
+HTTP GET e HTTP POST
+Neste projecto do bootcamp Hiring Coders 3  foi-nos proposta uma introdução aos conceitos de REST e SOAP. Usamos tecnologias como Nodemon,  Docker , ElephantSQL e  PostBird. Realizamos a seguir o ORM (Object Relational Mapper) para mapear as conecções de dados e o objecto, e  posteriormente as migrations. Criamos utilizadores e o hash das suas palavras pass .A partir dai autenticamos o JWT e depois o Token JWT via Header.
+Fizemos a validação de dados, adicionamos foto do utilizador, vinculamos e fizemos a listagem de prestadores de serviços bem como aprendemos os models de agendamento e criamos validamos a listagem de agendamentos com paginação e listagem de agenda do colaborador. Para finalizar Configuramos o MONGODB e configuramos as notificações.
